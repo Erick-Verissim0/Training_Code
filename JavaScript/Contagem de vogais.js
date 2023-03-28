@@ -17,3 +17,4 @@ function getCount(str) {
 }
 
 getCount('Erick Veríssimo');
+console.log(newPhrase);
